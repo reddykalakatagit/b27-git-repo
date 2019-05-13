@@ -1,0 +1,2 @@
+This is a new file in local repo via GIT.
+2nd line added to branch of local repo GIT.
